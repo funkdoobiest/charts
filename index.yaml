@@ -3,17 +3,17 @@ entries:
   sentry:
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2020-02-28T23:03:44.840653+01:00"
+    created: "2020-02-28T23:22:04.840588+01:00"
     description: A Helm chart for Kubernetes
-    digest: 9243128825868c7a92d6fb8b84d1b4bdc49912dcfb965fd3af7ad72fbfaf7679
+    digest: f57c14aca4dc6144276c49613c8b8d57708389a924928c804b14e0c2abfd76c5
     name: sentry
     type: application
     urls:
-    - https://funkdoobiest.github.io/charts/sentry-0.9.3.tgz
-    version: 0.9.3
+    - https://funkdoobiest.github.io/charts/sentry-0.9.4.tgz
+    version: 0.9.4
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2020-02-28T23:03:44.717175+01:00"
+    created: "2020-02-28T23:22:04.732073+01:00"
     description: A Helm chart for Kubernetes
     digest: 33384f373089447e4c8e54810381ddc941927521b96f02a44b350eb12c02ccfc
     name: sentry
@@ -23,17 +23,17 @@ entries:
     version: 0.9.3
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2020-02-28T23:03:44.715894+01:00"
+    created: "2020-02-28T23:22:04.839675+01:00"
     description: A Helm chart for Kubernetes
-    digest: a5a52cb5362e604215b1811e053a1b790d8f2e6c0c553a55d52f0750a6f63936
+    digest: dbade3f0504a361f93ff69d1ab7b01a787c954223391a7302162afd83547b2ec
     name: sentry
     type: application
     urls:
-    - https://funkdoobiest.github.io/charts/sentry-0.9.2.tgz
-    version: 0.9.2
+    - https://funkdoobiest.github.io/charts/charts/sentry-0.9.3.tgz
+    version: 0.9.3
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2020-02-28T23:03:44.838657+01:00"
+    created: "2020-02-28T23:22:04.8388+01:00"
     description: A Helm chart for Kubernetes
     digest: 56756b96745848e8031d81fcc48a184bc6cd57d5e919d7f07f0acfd05653e5c0
     name: sentry
@@ -43,17 +43,17 @@ entries:
     version: 0.9.2
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2020-02-28T23:03:44.837118+01:00"
+    created: "2020-02-28T23:22:04.73102+01:00"
     description: A Helm chart for Kubernetes
-    digest: 81e65b09754dea768122d4d619801bab77714f9c77520afbc1658c7bf68b563d
+    digest: a5a52cb5362e604215b1811e053a1b790d8f2e6c0c553a55d52f0750a6f63936
     name: sentry
     type: application
     urls:
-    - https://funkdoobiest.github.io/charts/charts/sentry-0.9.1.tgz
-    version: 0.9.1
+    - https://funkdoobiest.github.io/charts/sentry-0.9.2.tgz
+    version: 0.9.2
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2020-02-28T23:03:44.714005+01:00"
+    created: "2020-02-28T23:22:04.730026+01:00"
     description: A Helm chart for Kubernetes
     digest: 81e65b09754dea768122d4d619801bab77714f9c77520afbc1658c7bf68b563d
     name: sentry
@@ -63,17 +63,17 @@ entries:
     version: 0.9.1
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2020-02-28T23:03:44.711649+01:00"
+    created: "2020-02-28T23:22:04.837917+01:00"
     description: A Helm chart for Kubernetes
-    digest: 225f13adbe6a002014b135afc02b65771fbb5bbdf6f09e3179a408beb316846c
+    digest: 81e65b09754dea768122d4d619801bab77714f9c77520afbc1658c7bf68b563d
     name: sentry
     type: application
     urls:
-    - https://funkdoobiest.github.io/charts/sentry-0.9.0.tgz
-    version: 0.9.0
+    - https://funkdoobiest.github.io/charts/charts/sentry-0.9.1.tgz
+    version: 0.9.1
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2020-02-28T23:03:44.835841+01:00"
+    created: "2020-02-28T23:22:04.836516+01:00"
     description: A Helm chart for Kubernetes
     digest: 225f13adbe6a002014b135afc02b65771fbb5bbdf6f09e3179a408beb316846c
     name: sentry
@@ -83,7 +83,17 @@ entries:
     version: 0.9.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2020-02-28T23:03:44.710114+01:00"
+    created: "2020-02-28T23:22:04.728201+01:00"
+    description: A Helm chart for Kubernetes
+    digest: 225f13adbe6a002014b135afc02b65771fbb5bbdf6f09e3179a408beb316846c
+    name: sentry
+    type: application
+    urls:
+    - https://funkdoobiest.github.io/charts/sentry-0.9.0.tgz
+    version: 0.9.0
+  - apiVersion: v2
+    appVersion: 10.0.0
+    created: "2020-02-28T23:22:04.727094+01:00"
     description: A Helm chart for Kubernetes
     digest: aef5a5cd789251ab629d25d18ac94a7801e80fb99dde54dc98111e7547326ce8
     name: sentry
@@ -93,7 +103,7 @@ entries:
     version: 0.8.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2020-02-28T23:03:44.834182+01:00"
+    created: "2020-02-28T23:22:04.83564+01:00"
     description: A Helm chart for Kubernetes
     digest: aef5a5cd789251ab629d25d18ac94a7801e80fb99dde54dc98111e7547326ce8
     name: sentry
@@ -103,7 +113,7 @@ entries:
     version: 0.8.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2020-02-28T23:03:44.833007+01:00"
+    created: "2020-02-28T23:22:04.834738+01:00"
     description: A Helm chart for Kubernetes
     digest: 2ced97e545a92598f9b3bc487aa53b7b4cd6df8ba2b97ffbce5807a6e0a641d0
     name: sentry
@@ -113,7 +123,7 @@ entries:
     version: 0.7.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2020-02-28T23:03:44.708629+01:00"
+    created: "2020-02-28T23:22:04.725942+01:00"
     description: A Helm chart for Kubernetes
     digest: 2ced97e545a92598f9b3bc487aa53b7b4cd6df8ba2b97ffbce5807a6e0a641d0
     name: sentry
@@ -123,7 +133,7 @@ entries:
     version: 0.7.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2020-02-28T23:03:44.831763+01:00"
+    created: "2020-02-28T23:22:04.833887+01:00"
     description: A Helm chart for Kubernetes
     digest: bf3b118679f72f65fa20120dfd4c1718b56694250e80dac285189a0073a2fbcc
     name: sentry
@@ -133,7 +143,7 @@ entries:
     version: 0.6.1
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2020-02-28T23:03:44.705475+01:00"
+    created: "2020-02-28T23:22:04.72484+01:00"
     description: A Helm chart for Kubernetes
     digest: bf3b118679f72f65fa20120dfd4c1718b56694250e80dac285189a0073a2fbcc
     name: sentry
@@ -143,7 +153,7 @@ entries:
     version: 0.6.1
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2020-02-28T23:03:44.830495+01:00"
+    created: "2020-02-28T23:22:04.833053+01:00"
     description: A Helm chart for Kubernetes
     digest: b24391c885cb84817b024df7feb81feb6d97443a1e7cf26d6a7a04cdd3e1af0c
     name: sentry
@@ -153,7 +163,7 @@ entries:
     version: 0.6.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2020-02-28T23:03:44.704087+01:00"
+    created: "2020-02-28T23:22:04.723821+01:00"
     description: A Helm chart for Kubernetes
     digest: b24391c885cb84817b024df7feb81feb6d97443a1e7cf26d6a7a04cdd3e1af0c
     name: sentry
@@ -163,7 +173,7 @@ entries:
     version: 0.6.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2020-02-28T23:03:44.702573+01:00"
+    created: "2020-02-28T23:22:04.722814+01:00"
     description: A Helm chart for Kubernetes
     digest: 476900c519773349f70e8d0171f870ba5ad7983c62fcc72ae3b7799948500f33
     name: sentry
@@ -173,7 +183,7 @@ entries:
     version: 0.5.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2020-02-28T23:03:44.829216+01:00"
+    created: "2020-02-28T23:22:04.832225+01:00"
     description: A Helm chart for Kubernetes
     digest: 476900c519773349f70e8d0171f870ba5ad7983c62fcc72ae3b7799948500f33
     name: sentry
@@ -183,7 +193,7 @@ entries:
     version: 0.5.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2020-02-28T23:03:44.826851+01:00"
+    created: "2020-02-28T23:22:04.830906+01:00"
     description: A Helm chart for Kubernetes
     digest: 0da209fcf559a3aa66ef7715cf6327da2337e3739fff89e06a25d2e6a1488765
     name: sentry
@@ -193,7 +203,7 @@ entries:
     version: 0.2.1
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2020-02-28T23:03:44.701294+01:00"
+    created: "2020-02-28T23:22:04.721157+01:00"
     description: A Helm chart for Kubernetes
     digest: 0da209fcf559a3aa66ef7715cf6327da2337e3739fff89e06a25d2e6a1488765
     name: sentry
@@ -204,7 +214,7 @@ entries:
   sentry-db:
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2020-02-28T23:03:44.946718+01:00"
+    created: "2020-02-28T23:22:04.934044+01:00"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -227,7 +237,7 @@ entries:
       repository: https://kubernetes-charts.storage.googleapis.com/
       version: 8.2.1
     description: A Helm chart for Kubernetes
-    digest: b2f86aa2658a884958fb057c71dad20a79a759d862363cf4d8020706b56b0d48
+    digest: b98c344963e767283b305abc96646d8f7d51656bb51e766b8c86f25b98e1810e
     name: sentry-db
     type: application
     urls:
@@ -235,7 +245,7 @@ entries:
     version: 0.9.2
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2020-02-28T23:03:44.82494+01:00"
+    created: "2020-02-28T23:22:04.830078+01:00"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -258,7 +268,7 @@ entries:
       repository: https://kubernetes-charts.storage.googleapis.com/
       version: 8.2.1
     description: A Helm chart for Kubernetes
-    digest: c89e94d0951e97a4532c99eae0dd9164ac2413148465cb67602e5e478d87cce7
+    digest: e578b686e80356f0ea64bab97ec3f3717e4bb0b0611221697f6cde3c1ff94a32
     name: sentry-db
     type: application
     urls:
@@ -266,7 +276,7 @@ entries:
     version: 0.9.2
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2020-02-28T23:03:44.815644+01:00"
+    created: "2020-02-28T23:22:04.820768+01:00"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -297,7 +307,7 @@ entries:
     version: 0.9.1
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2020-02-28T23:03:44.935748+01:00"
+    created: "2020-02-28T23:22:04.924965+01:00"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -328,7 +338,7 @@ entries:
     version: 0.9.1
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2020-02-28T23:03:44.8044+01:00"
+    created: "2020-02-28T23:22:04.810437+01:00"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -359,7 +369,7 @@ entries:
     version: 0.9.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2020-02-28T23:03:44.923915+01:00"
+    created: "2020-02-28T23:22:04.91463+01:00"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -390,7 +400,7 @@ entries:
     version: 0.9.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2020-02-28T23:03:44.793201+01:00"
+    created: "2020-02-28T23:22:04.799986+01:00"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -421,7 +431,7 @@ entries:
     version: 0.8.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2020-02-28T23:03:44.912535+01:00"
+    created: "2020-02-28T23:22:04.90422+01:00"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -452,7 +462,7 @@ entries:
     version: 0.8.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2020-02-28T23:03:44.78107+01:00"
+    created: "2020-02-28T23:22:04.789435+01:00"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -483,7 +493,7 @@ entries:
     version: 0.7.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2020-02-28T23:03:44.900924+01:00"
+    created: "2020-02-28T23:22:04.893456+01:00"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -514,7 +524,7 @@ entries:
     version: 0.7.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2020-02-28T23:03:44.889824+01:00"
+    created: "2020-02-28T23:22:04.882392+01:00"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -545,7 +555,7 @@ entries:
     version: 0.6.1
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2020-02-28T23:03:44.76855+01:00"
+    created: "2020-02-28T23:22:04.778486+01:00"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -576,7 +586,7 @@ entries:
     version: 0.6.1
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2020-02-28T23:03:44.876404+01:00"
+    created: "2020-02-28T23:22:04.872022+01:00"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -607,7 +617,7 @@ entries:
     version: 0.6.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2020-02-28T23:03:44.755968+01:00"
+    created: "2020-02-28T23:22:04.768083+01:00"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -638,7 +648,7 @@ entries:
     version: 0.6.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2020-02-28T23:03:44.864097+01:00"
+    created: "2020-02-28T23:22:04.861589+01:00"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -669,7 +679,7 @@ entries:
     version: 0.5.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2020-02-28T23:03:44.743559+01:00"
+    created: "2020-02-28T23:22:04.757337+01:00"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -700,7 +710,7 @@ entries:
     version: 0.5.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2020-02-28T23:03:44.851519+01:00"
+    created: "2020-02-28T23:22:04.851061+01:00"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -731,7 +741,7 @@ entries:
     version: 0.2.1
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2020-02-28T23:03:44.730026+01:00"
+    created: "2020-02-28T23:22:04.745261+01:00"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -760,4 +770,4 @@ entries:
     urls:
     - https://funkdoobiest.github.io/charts/sentry-db-0.2.1.tgz
     version: 0.2.1
-generated: "2020-02-28T23:03:44.699517+01:00"
+generated: "2020-02-28T23:22:04.719819+01:00"
