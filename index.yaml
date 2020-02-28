@@ -3,98 +3,208 @@ entries:
   sentry:
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2020-02-27T10:45:37.555138768Z"
+    created: "2020-02-28T23:03:44.840653+01:00"
+    description: A Helm chart for Kubernetes
+    digest: 9243128825868c7a92d6fb8b84d1b4bdc49912dcfb965fd3af7ad72fbfaf7679
+    name: sentry
+    type: application
+    urls:
+    - https://funkdoobiest.github.io/charts/charts/sentry-0.9.3.tgz
+    version: 0.9.3
+  - apiVersion: v2
+    appVersion: 10.0.0
+    created: "2020-02-28T23:03:44.717175+01:00"
+    description: A Helm chart for Kubernetes
+    digest: 33384f373089447e4c8e54810381ddc941927521b96f02a44b350eb12c02ccfc
+    name: sentry
+    type: application
+    urls:
+    - https://funkdoobiest.github.io/charts/sentry-0.9.3.tgz
+    version: 0.9.3
+  - apiVersion: v2
+    appVersion: 10.0.0
+    created: "2020-02-28T23:03:44.715894+01:00"
     description: A Helm chart for Kubernetes
     digest: a5a52cb5362e604215b1811e053a1b790d8f2e6c0c553a55d52f0750a6f63936
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-0.9.2.tgz
+    - https://funkdoobiest.github.io/charts/sentry-0.9.2.tgz
     version: 0.9.2
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2020-02-27T10:45:37.553831762Z"
+    created: "2020-02-28T23:03:44.838657+01:00"
+    description: A Helm chart for Kubernetes
+    digest: 56756b96745848e8031d81fcc48a184bc6cd57d5e919d7f07f0acfd05653e5c0
+    name: sentry
+    type: application
+    urls:
+    - https://funkdoobiest.github.io/charts/charts/sentry-0.9.2.tgz
+    version: 0.9.2
+  - apiVersion: v2
+    appVersion: 10.0.0
+    created: "2020-02-28T23:03:44.837118+01:00"
     description: A Helm chart for Kubernetes
     digest: 81e65b09754dea768122d4d619801bab77714f9c77520afbc1658c7bf68b563d
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-0.9.1.tgz
+    - https://funkdoobiest.github.io/charts/charts/sentry-0.9.1.tgz
     version: 0.9.1
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2020-02-27T10:45:37.552496356Z"
+    created: "2020-02-28T23:03:44.714005+01:00"
+    description: A Helm chart for Kubernetes
+    digest: 81e65b09754dea768122d4d619801bab77714f9c77520afbc1658c7bf68b563d
+    name: sentry
+    type: application
+    urls:
+    - https://funkdoobiest.github.io/charts/sentry-0.9.1.tgz
+    version: 0.9.1
+  - apiVersion: v2
+    appVersion: 10.0.0
+    created: "2020-02-28T23:03:44.711649+01:00"
     description: A Helm chart for Kubernetes
     digest: 225f13adbe6a002014b135afc02b65771fbb5bbdf6f09e3179a408beb316846c
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-0.9.0.tgz
+    - https://funkdoobiest.github.io/charts/sentry-0.9.0.tgz
     version: 0.9.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2020-02-27T10:45:37.550064345Z"
+    created: "2020-02-28T23:03:44.835841+01:00"
+    description: A Helm chart for Kubernetes
+    digest: 225f13adbe6a002014b135afc02b65771fbb5bbdf6f09e3179a408beb316846c
+    name: sentry
+    type: application
+    urls:
+    - https://funkdoobiest.github.io/charts/charts/sentry-0.9.0.tgz
+    version: 0.9.0
+  - apiVersion: v2
+    appVersion: 10.0.0
+    created: "2020-02-28T23:03:44.710114+01:00"
     description: A Helm chart for Kubernetes
     digest: aef5a5cd789251ab629d25d18ac94a7801e80fb99dde54dc98111e7547326ce8
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-0.8.0.tgz
+    - https://funkdoobiest.github.io/charts/sentry-0.8.0.tgz
     version: 0.8.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2020-02-27T10:45:37.54886484Z"
+    created: "2020-02-28T23:03:44.834182+01:00"
+    description: A Helm chart for Kubernetes
+    digest: aef5a5cd789251ab629d25d18ac94a7801e80fb99dde54dc98111e7547326ce8
+    name: sentry
+    type: application
+    urls:
+    - https://funkdoobiest.github.io/charts/charts/sentry-0.8.0.tgz
+    version: 0.8.0
+  - apiVersion: v2
+    appVersion: 10.0.0
+    created: "2020-02-28T23:03:44.833007+01:00"
     description: A Helm chart for Kubernetes
     digest: 2ced97e545a92598f9b3bc487aa53b7b4cd6df8ba2b97ffbce5807a6e0a641d0
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-0.7.0.tgz
+    - https://funkdoobiest.github.io/charts/charts/sentry-0.7.0.tgz
     version: 0.7.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2020-02-27T10:45:37.547659535Z"
+    created: "2020-02-28T23:03:44.708629+01:00"
+    description: A Helm chart for Kubernetes
+    digest: 2ced97e545a92598f9b3bc487aa53b7b4cd6df8ba2b97ffbce5807a6e0a641d0
+    name: sentry
+    type: application
+    urls:
+    - https://funkdoobiest.github.io/charts/sentry-0.7.0.tgz
+    version: 0.7.0
+  - apiVersion: v2
+    appVersion: 10.0.0
+    created: "2020-02-28T23:03:44.831763+01:00"
     description: A Helm chart for Kubernetes
     digest: bf3b118679f72f65fa20120dfd4c1718b56694250e80dac285189a0073a2fbcc
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-0.6.1.tgz
+    - https://funkdoobiest.github.io/charts/charts/sentry-0.6.1.tgz
     version: 0.6.1
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2020-02-27T10:45:37.54650213Z"
+    created: "2020-02-28T23:03:44.705475+01:00"
+    description: A Helm chart for Kubernetes
+    digest: bf3b118679f72f65fa20120dfd4c1718b56694250e80dac285189a0073a2fbcc
+    name: sentry
+    type: application
+    urls:
+    - https://funkdoobiest.github.io/charts/sentry-0.6.1.tgz
+    version: 0.6.1
+  - apiVersion: v2
+    appVersion: 10.0.0
+    created: "2020-02-28T23:03:44.830495+01:00"
     description: A Helm chart for Kubernetes
     digest: b24391c885cb84817b024df7feb81feb6d97443a1e7cf26d6a7a04cdd3e1af0c
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-0.6.0.tgz
+    - https://funkdoobiest.github.io/charts/charts/sentry-0.6.0.tgz
     version: 0.6.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2020-02-27T10:45:37.545347825Z"
+    created: "2020-02-28T23:03:44.704087+01:00"
+    description: A Helm chart for Kubernetes
+    digest: b24391c885cb84817b024df7feb81feb6d97443a1e7cf26d6a7a04cdd3e1af0c
+    name: sentry
+    type: application
+    urls:
+    - https://funkdoobiest.github.io/charts/sentry-0.6.0.tgz
+    version: 0.6.0
+  - apiVersion: v2
+    appVersion: 10.0.0
+    created: "2020-02-28T23:03:44.702573+01:00"
     description: A Helm chart for Kubernetes
     digest: 476900c519773349f70e8d0171f870ba5ad7983c62fcc72ae3b7799948500f33
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-0.5.0.tgz
+    - https://funkdoobiest.github.io/charts/sentry-0.5.0.tgz
     version: 0.5.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2020-02-27T10:45:37.54411972Z"
+    created: "2020-02-28T23:03:44.829216+01:00"
+    description: A Helm chart for Kubernetes
+    digest: 476900c519773349f70e8d0171f870ba5ad7983c62fcc72ae3b7799948500f33
+    name: sentry
+    type: application
+    urls:
+    - https://funkdoobiest.github.io/charts/charts/sentry-0.5.0.tgz
+    version: 0.5.0
+  - apiVersion: v2
+    appVersion: 10.0.0
+    created: "2020-02-28T23:03:44.826851+01:00"
     description: A Helm chart for Kubernetes
     digest: 0da209fcf559a3aa66ef7715cf6327da2337e3739fff89e06a25d2e6a1488765
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-0.2.1.tgz
+    - https://funkdoobiest.github.io/charts/charts/sentry-0.2.1.tgz
+    version: 0.2.1
+  - apiVersion: v2
+    appVersion: 10.0.0
+    created: "2020-02-28T23:03:44.701294+01:00"
+    description: A Helm chart for Kubernetes
+    digest: 0da209fcf559a3aa66ef7715cf6327da2337e3739fff89e06a25d2e6a1488765
+    name: sentry
+    type: application
+    urls:
+    - https://funkdoobiest.github.io/charts/sentry-0.2.1.tgz
     version: 0.2.1
   sentry-db:
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2020-02-27T10:45:37.700218899Z"
+    created: "2020-02-28T23:03:44.946718+01:00"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -117,15 +227,46 @@ entries:
       repository: https://kubernetes-charts.storage.googleapis.com/
       version: 8.2.1
     description: A Helm chart for Kubernetes
-    digest: 78c19c9398a5a9a02dbe6023353324494e890d71ebec7f645dcd291a7e442b4f
+    digest: b2f86aa2658a884958fb057c71dad20a79a759d862363cf4d8020706b56b0d48
     name: sentry-db
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-db-0.9.2.tgz
+    - https://funkdoobiest.github.io/charts/charts/sentry-db-0.9.2.tgz
     version: 0.9.2
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2020-02-27T10:45:37.683975928Z"
+    created: "2020-02-28T23:03:44.82494+01:00"
+    dependencies:
+    - condition: redis.enabled
+      name: redis
+      repository: https://charts.bitnami.com/bitnami
+      version: 10.3.3
+    - condition: kafka.enabled
+      name: kafka
+      repository: https://charts.bitnami.com/bitnami
+      version: 7.1.1
+    - condition: clickhouse.enabled
+      name: clickhouse
+      repository: https://liwenhe1993.github.io/charts/
+      version: 1.0.1
+    - condition: rabbitmq-ha.enabled
+      name: rabbitmq-ha
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: 1.38.2
+    - condition: postgresql.enabled
+      name: postgresql
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: 8.2.1
+    description: A Helm chart for Kubernetes
+    digest: c89e94d0951e97a4532c99eae0dd9164ac2413148465cb67602e5e478d87cce7
+    name: sentry-db
+    type: application
+    urls:
+    - https://funkdoobiest.github.io/charts/sentry-db-0.9.2.tgz
+    version: 0.9.2
+  - apiVersion: v2
+    appVersion: 10.0.0
+    created: "2020-02-28T23:03:44.815644+01:00"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -152,11 +293,42 @@ entries:
     name: sentry-db
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-db-0.9.1.tgz
+    - https://funkdoobiest.github.io/charts/sentry-db-0.9.1.tgz
     version: 0.9.1
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2020-02-27T10:45:37.666650353Z"
+    created: "2020-02-28T23:03:44.935748+01:00"
+    dependencies:
+    - condition: redis.enabled
+      name: redis
+      repository: https://charts.bitnami.com/bitnami
+      version: 10.3.3
+    - condition: kafka.enabled
+      name: kafka
+      repository: https://charts.bitnami.com/bitnami
+      version: 7.1.1
+    - condition: clickhouse.enabled
+      name: clickhouse
+      repository: https://liwenhe1993.github.io/charts/
+      version: 1.0.1
+    - condition: rabbitmq-ha.enabled
+      name: rabbitmq-ha
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: 1.38.2
+    - condition: postgresql.enabled
+      name: postgresql
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: 8.2.1
+    description: A Helm chart for Kubernetes
+    digest: c225992e35fb2427eaf4ed6ef404e8ae4de4e89d8391f5abe321f29fd80ee154
+    name: sentry-db
+    type: application
+    urls:
+    - https://funkdoobiest.github.io/charts/charts/sentry-db-0.9.1.tgz
+    version: 0.9.1
+  - apiVersion: v2
+    appVersion: 10.0.0
+    created: "2020-02-28T23:03:44.8044+01:00"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -183,11 +355,42 @@ entries:
     name: sentry-db
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-db-0.9.0.tgz
+    - https://funkdoobiest.github.io/charts/sentry-db-0.9.0.tgz
     version: 0.9.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2020-02-27T10:45:37.651738388Z"
+    created: "2020-02-28T23:03:44.923915+01:00"
+    dependencies:
+    - condition: redis.enabled
+      name: redis
+      repository: https://charts.bitnami.com/bitnami
+      version: 10.3.3
+    - condition: kafka.enabled
+      name: kafka
+      repository: https://charts.bitnami.com/bitnami
+      version: 7.1.1
+    - condition: clickhouse.enabled
+      name: clickhouse
+      repository: https://liwenhe1993.github.io/charts/
+      version: 1.0.1
+    - condition: rabbitmq-ha.enabled
+      name: rabbitmq-ha
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: 1.38.2
+    - condition: postgresql.enabled
+      name: postgresql
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: 8.2.1
+    description: A Helm chart for Kubernetes
+    digest: c14162069acb7135e908e263fa20e05166e95cc5f4ad633fe6a0b8c7c8534c13
+    name: sentry-db
+    type: application
+    urls:
+    - https://funkdoobiest.github.io/charts/charts/sentry-db-0.9.0.tgz
+    version: 0.9.0
+  - apiVersion: v2
+    appVersion: 10.0.0
+    created: "2020-02-28T23:03:44.793201+01:00"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -214,11 +417,42 @@ entries:
     name: sentry-db
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-db-0.8.0.tgz
+    - https://funkdoobiest.github.io/charts/sentry-db-0.8.0.tgz
     version: 0.8.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2020-02-27T10:45:37.635201216Z"
+    created: "2020-02-28T23:03:44.912535+01:00"
+    dependencies:
+    - condition: redis.enabled
+      name: redis
+      repository: https://charts.bitnami.com/bitnami
+      version: 10.3.3
+    - condition: kafka.enabled
+      name: kafka
+      repository: https://charts.bitnami.com/bitnami
+      version: 7.1.1
+    - condition: clickhouse.enabled
+      name: clickhouse
+      repository: https://liwenhe1993.github.io/charts/
+      version: 1.0.1
+    - condition: rabbitmq-ha.enabled
+      name: rabbitmq-ha
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: 1.38.2
+    - condition: postgresql.enabled
+      name: postgresql
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: 8.2.1
+    description: A Helm chart for Kubernetes
+    digest: b125bb297c23d319dabe141536a9bd014538edf0b26d8847249aa28fe3627fa6
+    name: sentry-db
+    type: application
+    urls:
+    - https://funkdoobiest.github.io/charts/charts/sentry-db-0.8.0.tgz
+    version: 0.8.0
+  - apiVersion: v2
+    appVersion: 10.0.0
+    created: "2020-02-28T23:03:44.78107+01:00"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -245,11 +479,42 @@ entries:
     name: sentry-db
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-db-0.7.0.tgz
+    - https://funkdoobiest.github.io/charts/sentry-db-0.7.0.tgz
     version: 0.7.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2020-02-27T10:45:37.618947845Z"
+    created: "2020-02-28T23:03:44.900924+01:00"
+    dependencies:
+    - condition: redis.enabled
+      name: redis
+      repository: https://charts.bitnami.com/bitnami
+      version: 10.3.3
+    - condition: kafka.enabled
+      name: kafka
+      repository: https://charts.bitnami.com/bitnami
+      version: 7.1.1
+    - condition: clickhouse.enabled
+      name: clickhouse
+      repository: https://liwenhe1993.github.io/charts/
+      version: 1.0.1
+    - condition: rabbitmq-ha.enabled
+      name: rabbitmq-ha
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: 1.38.2
+    - condition: postgresql.enabled
+      name: postgresql
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: 8.2.1
+    description: A Helm chart for Kubernetes
+    digest: c61a9ea0ce22cc86d105d4d88e1e8f11ef65764847dce5b405fbd91419bf611a
+    name: sentry-db
+    type: application
+    urls:
+    - https://funkdoobiest.github.io/charts/charts/sentry-db-0.7.0.tgz
+    version: 0.7.0
+  - apiVersion: v2
+    appVersion: 10.0.0
+    created: "2020-02-28T23:03:44.889824+01:00"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -276,11 +541,42 @@ entries:
     name: sentry-db
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-db-0.6.1.tgz
+    - https://funkdoobiest.github.io/charts/charts/sentry-db-0.6.1.tgz
     version: 0.6.1
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2020-02-27T10:45:37.603583478Z"
+    created: "2020-02-28T23:03:44.76855+01:00"
+    dependencies:
+    - condition: redis.enabled
+      name: redis
+      repository: https://charts.bitnami.com/bitnami
+      version: 10.3.3
+    - condition: kafka.enabled
+      name: kafka
+      repository: https://charts.bitnami.com/bitnami
+      version: 7.1.1
+    - condition: clickhouse.enabled
+      name: clickhouse
+      repository: https://liwenhe1993.github.io/charts/
+      version: 1.0.1
+    - condition: rabbitmq-ha.enabled
+      name: rabbitmq-ha
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: 1.38.2
+    - condition: postgresql.enabled
+      name: postgresql
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: 8.2.1
+    description: A Helm chart for Kubernetes
+    digest: 24f7a94f3d6f194b5d1cf678467b4cec4551c398e83d615d2312e90466202db9
+    name: sentry-db
+    type: application
+    urls:
+    - https://funkdoobiest.github.io/charts/sentry-db-0.6.1.tgz
+    version: 0.6.1
+  - apiVersion: v2
+    appVersion: 10.0.0
+    created: "2020-02-28T23:03:44.876404+01:00"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -307,11 +603,42 @@ entries:
     name: sentry-db
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-db-0.6.0.tgz
+    - https://funkdoobiest.github.io/charts/charts/sentry-db-0.6.0.tgz
     version: 0.6.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2020-02-27T10:45:37.587552709Z"
+    created: "2020-02-28T23:03:44.755968+01:00"
+    dependencies:
+    - condition: redis.enabled
+      name: redis
+      repository: https://charts.bitnami.com/bitnami
+      version: 10.3.3
+    - condition: kafka.enabled
+      name: kafka
+      repository: https://charts.bitnami.com/bitnami
+      version: 7.1.1
+    - condition: clickhouse.enabled
+      name: clickhouse
+      repository: https://liwenhe1993.github.io/charts/
+      version: 1.0.1
+    - condition: rabbitmq-ha.enabled
+      name: rabbitmq-ha
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: 1.38.2
+    - condition: postgresql.enabled
+      name: postgresql
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: 8.2.1
+    description: A Helm chart for Kubernetes
+    digest: 3b9097700de785f1bad79a99c9f469a920f984efe699a457f8ada5bb608b8417
+    name: sentry-db
+    type: application
+    urls:
+    - https://funkdoobiest.github.io/charts/sentry-db-0.6.0.tgz
+    version: 0.6.0
+  - apiVersion: v2
+    appVersion: 10.0.0
+    created: "2020-02-28T23:03:44.864097+01:00"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -338,11 +665,42 @@ entries:
     name: sentry-db
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-db-0.5.0.tgz
+    - https://funkdoobiest.github.io/charts/charts/sentry-db-0.5.0.tgz
     version: 0.5.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2020-02-27T10:45:37.570839136Z"
+    created: "2020-02-28T23:03:44.743559+01:00"
+    dependencies:
+    - condition: redis.enabled
+      name: redis
+      repository: https://charts.bitnami.com/bitnami
+      version: 10.3.3
+    - condition: kafka.enabled
+      name: kafka
+      repository: https://charts.bitnami.com/bitnami
+      version: 7.1.1
+    - condition: clickhouse.enabled
+      name: clickhouse
+      repository: https://liwenhe1993.github.io/charts/
+      version: 1.0.1
+    - condition: rabbitmq-ha.enabled
+      name: rabbitmq-ha
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: 1.38.2
+    - condition: postgresql.enabled
+      name: postgresql
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: 8.2.1
+    description: A Helm chart for Kubernetes
+    digest: 2bb4095a0774ccc5b418a1ca031889e1796ecf537bb1ff8e798b5b26a48f3b85
+    name: sentry-db
+    type: application
+    urls:
+    - https://funkdoobiest.github.io/charts/sentry-db-0.5.0.tgz
+    version: 0.5.0
+  - apiVersion: v2
+    appVersion: 10.0.0
+    created: "2020-02-28T23:03:44.851519+01:00"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -369,6 +727,37 @@ entries:
     name: sentry-db
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-db-0.2.1.tgz
+    - https://funkdoobiest.github.io/charts/charts/sentry-db-0.2.1.tgz
     version: 0.2.1
-generated: "2020-02-27T10:45:37.542788514Z"
+  - apiVersion: v2
+    appVersion: 10.0.0
+    created: "2020-02-28T23:03:44.730026+01:00"
+    dependencies:
+    - condition: redis.enabled
+      name: redis
+      repository: https://charts.bitnami.com/bitnami
+      version: 10.3.3
+    - condition: kafka.enabled
+      name: kafka
+      repository: https://charts.bitnami.com/bitnami
+      version: 7.1.1
+    - condition: clickhouse.enabled
+      name: clickhouse
+      repository: https://liwenhe1993.github.io/charts/
+      version: 1.0.1
+    - condition: rabbitmq-ha.enabled
+      name: rabbitmq-ha
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: 1.38.2
+    - condition: postgresql.enabled
+      name: postgresql
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: 8.2.1
+    description: A Helm chart for Kubernetes
+    digest: ca96424a03a019c13e38bfb1a870081f8ade5b1503b493925732c0b8000d11b0
+    name: sentry-db
+    type: application
+    urls:
+    - https://funkdoobiest.github.io/charts/sentry-db-0.2.1.tgz
+    version: 0.2.1
+generated: "2020-02-28T23:03:44.699517+01:00"
