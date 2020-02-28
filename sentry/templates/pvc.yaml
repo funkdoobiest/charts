@@ -2,7 +2,7 @@
 kind: PersistentVolumeClaim
 apiVersion: v1
 metadata:
-  name: {{ template "sentry.prefix" . }}
+  name: {{ template "sentry.fullname" . }}
   labels:
     app: sentry
     chart: "{{ .Chart.Name }}-{{ .Chart.Version | replace "+" "_" }}"
